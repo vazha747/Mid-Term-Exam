@@ -1,0 +1,235 @@
+.search-bar {
+    background-color: gray;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-container {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+}
+.georgia{
+  border: 1px solid #ccc;
+  margin: 2px;
+  padding: 2px;
+  background-color:   rgb(123, 199, 224);
+}
+.img-container {
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+#selectedImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+#selectedFulltext{
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.img-container {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+float: right;
+}
+img{
+    width: 300px;
+}
+.imageContainer{
+    text-align: center;
+    margin-bottom: 30px;
+}
+/* menu */
+#menu ul {
+    padding: 0;
+}
+#menu li {
+    list-style: none;
+}  
+#menu a {
+    color: #fff;
+    display: block;
+    font-size: 32px;
+    margin-bottom: 30px;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: sans-serif;
+}
+ #burger-menu {
+    cursor: pointer;
+    overflow: visible;
+    position: relative;
+    z-index: 2;
+}
+#burger-menu span,
+#burger-menu span:before,
+#burger-menu span:after {
+  opacity: 1;
+  position: absolute;
+  transition: 0.5s ease-in-out;
+}
+#burger-menu span:before,
+#burger-menu span:after {
+  content: "";
+}
+#burger-menu span:before {
+  left: 0px;
+  top: -10px;
+  width: 27px;
+}
+#burger-menu.close span:before {
+  top: 0px;
+  transform: rotate(360deg);
+}
+#burger-menu.close span {
+  transform: rotate(-360deg);
+}
+#burger-menu.close span:after {
+  top: 0px;
+  left: 0;
+  transform: rotate(360deg);
+  opacity: 0;
+  width: 0;
+}
+#menu {
+    z-index: 1;
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+    top: 0;
+    height: 0;
+    visibility: hidden;
+    opacity: 0;
+    text-align: center;
+    padding-top: 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  #menu.overlay {
+    visibility: visible;
+    opacity: 1;
+    padding-top: 100px;
+    background: rgba(0, 0, 0, 0.85);
+  }
+  #menu ul {
+    padding: 0;
+  }
+  #menu li {
+    list-style: none;
+  }
+  #menu a {
+    color: #fff;
+    display: block;
+    font-size: 32px;
+    margin-bottom: 30px;
+    text-decoration: none;
+  }
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0;}
+.mySlides {
+    display: none;
+    text-align: center;
+}
+img {
+    vertical-align: middle;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+/* end  */
+.end ul {
+  display: flex;
+  align-items: center;
+  padding: 10px; 
+  list-style-type: none;
+  margin: 0;
+  color: #6e6d7a;
+}
+
+.end li {
+  margin-right: 20px;
+  list-style-type: none;
+
+}

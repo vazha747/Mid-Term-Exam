@@ -3,80 +3,107 @@ const famousPersons = [
         image: "images/Levan_Saginashvili_at_Vendetta_TOP_8_in_Rumia,_Poland.jpg",
         name: "Levan saginashvili",
         text: "Levan Saginashvili, nicknamed Georgian Hulk, is a Georgian professional arm-wrestler. Winner of the World Armwrestling Championship seven times, the European arm-wrestling championship six times, and the Vendetta Top 8, Saginashvili is the World's number 1 ranking armwrestler at the moment.",
+        fulltext:"Levan Saginashvili, nicknamed Georgian Hulk, is a Georgian professional arm-wrestler. Winner of the World Armwrestling Championship seven times, the European arm-wrestling championship six times, and the Vendetta Top 8, Saginashvili is the World's number 1 ranking armwrestler at the moment. After winning the 2013 World Police and Fire Games arm-wrestling gold medal in Belfast,[2] he was awarded the merit of first degree by the Ministry of Internal Affairs of Georgia. In 2018 he won the EuroArm,[3] World Arm-wrestling Championship,[4] and Vendetta All Stars #50 in Rumia, Poland.[5]After winning the six-round super-match against Devon Larratt at King of the Table 4 on June 25, 2022, he was presented with the right hand legacy hammer by Devon Larratt and was universally recognized as the world #1 (right arm) arm-wrestler by the community. Levan has stated previously that he intended to win every single round of his professional supermatch career, and was able to uphold this goal from his first supermatch in 2017 until February 2023 when Levan conceded 2 nonessential final rounds against Ermes Gasparini due to health concerns (although still victorious overall).On February 25, 2023, Saginashvili faced off against Ermes Gasparini at King of the Table 6. Levan had put his legacy hammer and undefeated streak on the line, having won all his preceding super matches with a 6-0 score. Ermes secured his second-ranked spot with a victory over Dave Chaffee. Levan emerged victorious by winning the first 4 rounds out of a possible 6. However, in the fifth and sixth rounds, he chose not to continue the match due to the previously mentioned health concerns, leading the officials to give the last 2 forfeited rounds to Ermes and end the match on a 4-2 note in favor of Levan. This marked the end of Levan's streak of shutout wins in supermatches, but he still remained unpinned and retained his spot as the number one arm wrestler in the world.[6]Levan appears in the 2023 action film Extraction 2.",
     },
     {
         image: "images/lasha.webp",
         name: "Lasha Talakhadze",
         text: "Lasha Talakhadze is a Georgian weightlifter, holding the all-time world records regardless of weight category in the snatch, the clean and jerk, and the total since 2021. Talakhadze is a two-time Olympic champion, seven-time world champion, and seven-time European champion competing in the super-heavyweight category.",
+        fulltext: "Lasha Talakhadze (Georgian: ლაშა ტალახაძე; born 2 October 1993) is a Georgian weightlifter, holding the all-time world records regardless of weight category in the snatch (225 kg, 496 lb), the clean and jerk (267 kg, 589 lb), and the total (492 kg, 1,085 lb) since 2021. Talakhadze is a two-time Olympic champion,[3] seven-time world champion, and seven-time European champion competing in the super-heavyweight category (105 kg + until 2018[4] and 109 kg + starting in 2018 after the International Weightlifting Federation reorganized the categories).[5] He is a three-time winner of the IWF Male Lifter of the Year. Talakhadze represented Georgia at the 2015 World Weightlifting Championships, and originally finished second with a total of 454 kg. In December 2015, Aleksey Lovchev (the original gold medalist and world record holder in the clean & jerk and total) failed a drug test[7] for Ipamorelin. The IWF stripped his gold medal and rescinded his world records, and as a result Talakhadze became world champion. At the 2016 Olympics he completed a snatch of 215 kg to break the world record of 214 kg set by Behdad Salimi (who took the record back with 216 kg, equaling the all-time highest set by Antonio Krastev of Bulgaria in 1987). In the clean & jerk portion of the competition, Behdad Salimi initially completed a 245 kg lift on his second attempt, but it was overruled by the 5 member jury,[11] and was unable to complete his third attempt of 245 kg. Lasha then completed his next lift of 247 kg, giving him the lead after Salimi did not make a lift. He then completed a clean & jerk of 258 kg to set a new world record total of 473 kg and won the gold medal by a 22 kg margin over silver medallist Gor Minasyan. In his first competition after winning the gold medal at the 2016 Summer Olympics, he set a new world record in the snatch at the 2017 European Weightlifting Championships with 217 kg, and in the process broke the all-time highest snatch of 216 kg set by Antonio Krastev in 1987, and matched by Behdad Salimi at the 2016 Olympics.",
     },
     {
         image: "images/meraba.jpg",
         name: "Merab Dvalishvili",
         text: "Merab Dvalishvili is a Georgian professional mixed martial artist. He currently competes in the Bantamweight division in the Ultimate Fighting Championship. As of August 22, 2023, he is #2 in the UFC bantamweight rankings.",
+        fulltext: "Merab Dvalishvili (born January 10, 1991) is a Georgian professional mixed martial artist. He currently competes in the Bantamweight division in the Ultimate Fighting Championship (UFC). As of August 22, 2023, he is #2 in the UFC bantamweight rankings. Dvalishvili was born in Tbilisi, Georgian SSR and grew up in an independent Georgia. He started training in qartuli chidaoba (traditional wrestling) and khridoli (traditional fighting), sambo and judo when he was young for self-defense. He moved to the United States when he was 21 years old to become a professional MMA fighter. He trains under Ray Longo and Matt Serra. Dvalishvili started his MMA career in 2014 and fought under various promotions, namely the Ring of Combat. He amassed a record of 7-2 prior to competing in the UFC. Dvalishvili made his UFC debut on December 9, 2017, against Frankie Saenz at UFC Fight Night: Swanson vs. Ortega.[7] He lost the fight via split decision. His next fight came on April 21, 2018, at UFC Fight Night: Barboza vs. Lee against Ricky Simón. He lost the fight via technical submission at the final bell.[9] This fight earned him the Fight of the Night award.[10] Dvalishvili's team appealed the result on the grounds that he was not unconscious at the end of the round, but the appeal was denied.",
     },
     {
         image: "images/stalini.jpg",
         name: "Joseph Stalin",
         text: "Joseph Vissarionovich Stalin was a Soviet revolutionary and politician who was the leader of the Soviet Union from 1924 until his death in 1953. He held power as General Secretary of the Communist Party of the Soviet Union and Chairman of the Council of Ministers of the Soviet Union.",
+        fulltext: "Joseph Vissarionovich Stalin (born Ioseb Besarionis dze Jughashvili; 18 December [O.S. 6 December] 1878 - 5 March 1953) was a Soviet revolutionary and politician who was the leader of the Soviet Union from 1924 until his death in 1953. He held power as General Secretary of the Communist Party of the Soviet Union (1922-1952) and Chairman of the Council of Ministers of the Soviet Union (1941-1953). Initially governing the country as part of a collective leadership, he consolidated power to become a dictator by the 1930s. Ideologically adhering to the Leninist interpretation of Marxism, he formalised these ideas as Marxism-Leninism, while his own policies are called Stalinism. Born to a poor family in Gori in the Russian Empire (now Georgia), Stalin attended the Tbilisi Spiritual Seminary before joining the Marxist Russian Social Democratic Labour Party. He edited the party's newspaper, Pravda, and raised funds for Vladimir Lenin's Bolshevik faction via robberies, kidnappings and protection rackets. Repeatedly arrested, he underwent several internal exiles to Siberia. After the Bolsheviks seized power in the October Revolution and created a one-party state under the new Communist Party in 1917, Stalin joined its governing Politburo. Serving in the Russian Civil War before overseeing the Soviet Union's establishment in 1922, Stalin assumed leadership over the country following Lenin's death in 1924. Under Stalin, socialism in one country became a central tenet of the party's ideology. As a result of his Five-Year Plans, the country underwent agricultural collectivisation and rapid industrialisation, creating a centralised command economy. Severe disruptions to food production contributed to the famine of 1930–33, including the Asharshylyk in Kazakhstan and the Holodomor in Ukraine. To eradicate accused enemies of the working class, Stalin instituted the Great Purge, in which over a million were imprisoned, largely in the Gulag system of forced labour camps, and at least 700,000 executed between 1934 and 1939. By 1937, he had absolute control over the party and government.",
     },
     {
         image: "images/eduardi.jpg",
         name: "Eduard Shevardnadze",
         text: "Eduard Ambrosis dze Shevardnadze was a Soviet and Georgian politician and diplomat who governed Georgia for several non-consecutive periods from 1972 until his resignation in 2003 and also served as the final Soviet Minister of Foreign Affairs from 1985 to 1990.",
+        fulltext: "Eduard Ambrosis dze Shevardnadze (Georgian: ედუარდ ამბროსის ძე შევარდნაძე, romanized: Eduard Ambrosis dze Shevardnadze; 25 January 1928 - 7 July 2014) was a Soviet and Georgian politician and diplomat who governed Georgia for several non-consecutive periods from 1972 until his resignation in 2003 and also served as the final Soviet Minister of Foreign Affairs from 1985 to 1990. Shevardnadze started his political career in the late 1940s as a leading member of his local Komsomol organisation. He was later appointed its Second Secretary, then its First Secretary. His rise in the Georgian Soviet hierarchy continued until 1961 when he was demoted after he insulted a senior official. After spending two years in obscurity, Shevardnadze returned as a First Secretary of a Tbilisi city district, and was able to charge the Tbilisi First Secretary at the time with corruption. His anti-corruption work quickly garnered the interest of the Soviet government and Shevardnadze was appointed as First Deputy of the Ministry of Internal Affairs of the Georgian SSR. He would later become the head of the internal affairs ministry and was able to charge First Secretary (leader of Soviet Georgia) Vasil Mzhavanadze with corruption. He served as First Secretary of the Georgian Communist Party (GPC) from 1972 to 1985, which made him the de facto leader of Georgia. As First Secretary, Shevardnadze started several economic reforms, which would spur economic growth in the republic—an uncommon occurrence in the Soviet Union because the country was experiencing a nationwide economic stagnation. Shevardnadze's anti-corruption campaign continued until he resigned from his office as First Secretary.",
     },
     {
         image: "images/Lavrentiy_Beria.webp",
         name: "Lavrentiy Beria",
         text: "Lavrentiy Beria (1899-1953), marshal of the Soviet Union and main ideologist and architect, as well as chief of the Soviet secret police, NKVD",
+        fulltext: "Lavrentiy Pavlovich Beria (/bɛriə/ BERR-ee-ə; Russian: Лаврентий Павлович Берия, Georgian: ლავრენტი ბერია, romanized: lavrent'i beria, 29 March [O.S. 17 March] 1899 - 23 December 1953) was a Georgian Bolshevik and Soviet politician, Marshal of the Soviet Union and state security administrator, chief of the Soviet security, serial rapist, and chief of the People's Commissariat for Internal Affairs (NKVD) under Joseph Stalin during the Second World War, and promoted to deputy premier under Stalin in 1941. He officially joined the Politburo in 1946. Beria was the longest-serving and most influential of Stalin's secret police chiefs, wielding his most substantial influence during and after the war. Following the Soviet invasion of Poland in 1939, he was responsible for organising purges such as the Katyn massacre of 22,000 Polish officers and officials. He would later also orchestrate the forced upheaval of minorities from the Caucasus as head of the NKVD, an act that was declared genocidal by various scholars and, as concerning Chechens, in 2004 by the European Parliament. He simultaneously administered vast sections of the Soviet state, and acted as the de facto Marshal of the Soviet Union in command of NKVD field units responsible for barrier troops and Soviet partisan intelligence and sabotage operations on the Eastern Front. Beria administered the expansion of the Gulag labour camps, and was primarily responsible for overseeing the secret detention facilities for scientists and engineers known as sharashkas. After the war, Beria oversaw the Soviet atomic bomb project, which Stalin gave absolute priority to, and the project was completed in under five years. After Stalin's death in March 1953, Beria became First Deputy Chairman of the Council of Ministers and head of the Ministry of Internal Affairs. In this dual capacity, he formed a troika with Georgy Malenkov and Vyacheslav Molotov that briefly led the country in Stalin's place. The Gulag system was transferred to the Ministry of Justice, and a mass release of over a million prisoners was announced. That amnesty led to a substantial increase in crime. A coup d'état by Nikita Khrushchev, with help from former Marshal of the Soviet Union Georgy Zhukov, removed Beria from power in June 1953. After being arrested, he was tried for treason and other offences, sentenced to death, and executed on 23 December 1953.",
     },
     {
         image: "images/khvicha.jpg",
         name: "Khvicha Kvaratskheli",
         text: "Khvicha Kvaratskhelia, also known as Kvara, is a Georgian professional footballer who plays as a left winger for Serie A club Napoli and the Georgia national team. Kvaratskhelia started his senior career playing for Dinamo Tbilisi at age 16, before departing to Rustavi where he spent half a season.",
+        fulltext: "Khvicha Kvaratskhelia (Georgian: ხვიჩა კვარაცხელია, romanized: khvicha k'varatskhelia; born 12 February 2001), also known as Kvara, is a Georgian professional footballer who plays as a left winger for Serie A club Napoli and the Georgia national team. Kvaratskhelia started his senior career playing for Dinamo Tbilisi at age 16, before departing to Rustavi where he spent half a season. During his combined three-year tenure at Lokomotiv Moscow and Rubin Kazan, Kvaratskhelia won two consecutive Russian Premier League Best Young Player awards. Following a short spell at Dinamo Batumi, Kvaratskhelia signed for Napoli in 2022, and in his debut season guided the club to a record UEFA Champions League campaign and a first Serie A title in 33 years, finishing as the league's top assist provider. This saw him named Serie A Most Valuable Player and the Champions League's Young Player of the Season. At international level, Kvaratskhelia established himself in all national youth teams, becoming a key player under different managers. He became an integral part of the national team after joining it in 2019. Coming through the youth system, Kvaratskhelia began his senior career at Dinamo Tbilisi in 2017, making his senior debut against Kolkheti-1913 Poti, coming on as a 62nd minute substitute in a 1-1 draw on 29 September 2017. In total, Kvaratskhelia made five appearances in all competitions for Dinamo Tbilisi, scoring his first goal in a 1-0 win away to Shukura Kobuleti on 19 November 2017.",
     },
     {
         image: "images/peter.webp",
         name: "Peter Bagrationi",
         text: "He Was Georgian",
+        fulltext: "Peter I (Russian: Пётр I Алексеевич, romanized: Pyotr I Alekseyev; 9 June [O.S. 30 May] 1672 - 8 February [O.S. 28 January] 1725), commonly known as Peter the Great,[note 2] was Tsar of all Russia from 1682, and the first Emperor of all Russia from 1721 until his death in 1725. He reigned jointly with his half-brother Ivan V until 1696. From this year, Peter was an absolute monarch who remained the ultimate authority. His methods were often harsh and autocratic. Most of Peter's reign was consumed by long wars against the Ottoman and Swedish Empires. Despite initial difficulties, the wars were ultimately successful and led to expansion to the Sea of Azov and the Baltic Sea, thus laying the groundwork for the Imperial Russian Navy. His victory in the Great Northern War ended Sweden's era as a great power and its domination of the Baltic region while elevating Russia's standing to the extent it came to be acknowledged as an empire. Peter led a cultural revolution that replaced some of the traditionalist and medieval social and political systems with ones that were modern, scientific, Westernized, and based on radical Enlightenment. In 1700, he introduced the Gregorian calendar but the Russian Orthodox Church was particularly resistant to this change; they wanted to maintain its distinct identity and avoid appearing influenced by Catholic practices.[citation needed] In 1703, he introduced the first Russian newspaper, Sankt-Peterburgskie Vedomosti, ordered the civil script, a reform of Russian orthography largely designed by himself. He founded the city of Saint Petersburg on the shore of the Neva as a window to the West in May 1703. In 1712 Peter moved the capital from Moscow to Saint Petersburg, where it remained - with only a brief interruption - until 1918. He promoted higher education and industrialization in the Russian Empire.",
     },
     {
         image: "images/download.webp",
         name: "Giorgi Chakvetadze",
         text: "Giorgi Chakvetadze (Georgian: გიორგი ჩაკვეტაძე; born 29 August 1999) is a Georgian professional footballer who plays as an attacking midfielder or left winger for EFL Championship club Watford, on loan from Gent, and the Georgia national team. Chakvetadze has earned the Player of the Year award in Georgia. He has also won the Slovak First League with Slovan Bratislava.",
+        fulltext: "Giorgi Chakvetadze (Georgian: გიორგი ჩაკვეტაძე; born 29 August 1999) is a Georgian professional footballer who plays as an attacking midfielder or left winger for EFL Championship club Watford, on loan from Gent, and the Georgia national team. Chakvetadze has earned the Player of the Year award in Georgia. He has also won the Slovak First League with Slovan Bratislava. Born in Tbilisi, Chakvetadze started his career with Norchi Dinamo.[2] His first manager was former footballer Tamaz Kostava, who described Chakvetadze as a hardworking player. In 2010, after some successful seasons in the youth championships of Georgia, Chakvetadze moved to Dinamo Tbilisi, where he won U15 and U17 championships.[3] In 2015, Chakvetadze signed a three-year deal with Dinamo. Chakvetadze was promoted to the first team in 2016, making his debut against Locomotive Tbilisi on 18 November 2016, replacing Otar Kiteishvili.[5] That season the young midfielder made 5 appearances for Dinamo. In the following season, Chakvetadze became a key figure of the club, scoring 5 goals in 24 appearances with the club, with two of them against Dila Gori. At the end of summer 2017, Chakvetadze signed with Gent.[7] The president of the Georgian club, Roman Pipia confirmed that the Belgian club was not the only one interested in signing the young player, declaring that Liverpool, Tottenham Hotspur, Hoffenheim and Bayer Leverkusen tried to sign him as well.",
     },
     {
         image: "images/G._Mazniashvili.jpg",
         name: "Giorgi Mazniashvili",
         text: "Giorgi Mazniashvili (Georgian: გიორგი მაზნიაშვილი) (6 April 1870 - 16 December 1937) was a Georgian general and one of the most prominent military figures in the Democratic Republic of Georgia (1918-1921). During the service in the Russian army.",
+        fulltext: "Giorgi Mazniashvili (Georgian: გიორგი მაზნიაშვილი) (6 April 1870 - 16 December 1937) was a Georgian general and one of the most prominent military figures in the Democratic Republic of Georgia (1918-1921). During the service in the Russian army. Mazniashvili was born on 6 April 1870 in the village Sasireti, Tiflis Governorate, Russian Empire (present day Kaspi Municipality, Shida Kartli, Georgia). Having taken a proper military education, he was later promoted to general of the Russian army. Wounded in the Russo-Japanese war (1904–1905), he was visited at a hospital by the Tsar Nicholas II, who awarded him St George's Cross and invited the general to the palace. He fought also on the battlefields of World War I, but returned to Georgia after the February Revolution in 1917. He formed two national divisions and secured the capital Tbilisi from the chaotically retreating and increasingly Bolshevist Russian soldiers. In April 1918, he successfully defended the southwestern province Guria from the Ottoman offensive winning a victory on the Choloki River. In June 1918, he served as a governor general of Abkhazia and crushed there a pro-Bolshevik revolt; then he took Gagra, Sochi and Tuapse in the first phase of the Sochi conflict.[1][citation needed]. From October to December 1918, he served as a governor general of Tbilisi. During the December Georgian-Armenian war 1918, he was appointed a commander-in-chief and successfully defended the Georgian borders from the troops of General Dro and Stepan Shahumyan. In 1919 he served as a governor general of Akhaltsikhe and Akhalkalaki and was moved, on 6 October 1920, as a commandant in Tbilisi. During the Soviet invasion of February 1921, he repulsed the Red Army from the Soghanlughi heights at the outskirts of Tbilisi. The war, however, was lost. Mazniashvili did not follow the country's leaders in exile, but mobilized the remnants of the Georgian armed forces to recover the Black Sea city of Batumi from the Ottoman occupation in March 1921.[1] The newly established Soviet government of Georgia declared him outlaw, but later offered him a nominal post in the Red Army.",
     },
 ];
 
 const container = document.getElementById("container");
 
-famousPersons.forEach((person) => {
-   const content = document.createElement("div");
-   content.className = "content-container";
+localStorage.setItem('selectedPerson', JSON.stringify({
+    image: 'images/example_image_url.jpg',
+    fulltext: 'Example fulltext content.'
+}));
+// Iterate through famousPersons array and create content for each person
+famousPersons.forEach((person, index) => {
+    const content = document.createElement("div");
+    content.className = "content-container";
 
-   const imgContainer = document.createElement("div");
-   imgContainer.className = "img-container";
-   
-   const img = document.createElement("img");
-   img.src = person.image;
-   img.alt = `${person.name} photo`;
+    const imgContainer = document.createElement("div");
+    imgContainer.className = "img-container";
 
-   imgContainer.appendChild(img);
-   content.appendChild(imgContainer);
+    const img = document.createElement("img");
+    img.src = person.image;
+    img.alt = `${person.name} photo`;
 
-   const namePara = document.createElement("p");
-   namePara.textContent = `Name: ${person.name}`;
-   content.appendChild(namePara);
+    imgContainer.addEventListener('click', function () {
 
-   const textSpan = document.createElement("span");
-   textSpan.textContent = person.text;
-   content.appendChild(textSpan);
+        localStorage.setItem('selectedPerson', JSON.stringify({
+            image: person.image,
+            fulltext: person.fulltext,
+        }));
 
-   container.appendChild(content);
+        window.location.href = 'fulltext.html';
+    });
+
+    imgContainer.appendChild(img);
+    content.appendChild(imgContainer);
+
+    const namePara = document.createElement("p");
+    namePara.textContent = `Name: ${person.name}`;
+    content.appendChild(namePara);
+
+    const textSpan = document.createElement("span");
+    textSpan.textContent = person.text;
+    content.appendChild(textSpan);
+
+    container.appendChild(content);
 });
+
+
 
 
 //burger menu 
